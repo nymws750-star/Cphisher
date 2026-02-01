@@ -1,25 +1,50 @@
-# 🛡️ Cphisher v2.3.5
-**Advanced All-in-One Cybersecurity Toolset for Kali Linux**
+# <p align="center">🛡️ Cphisher v2.3.5</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nymws750-star/Cphisher/main/preview.png" alt="Cphisher Preview" width="700">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nymws750-star&label=Project%20Views&color=red&style=flat-square" alt="Views">
+</p>
+
+<p align="center">
+  <b>Advanced All-in-One Cybersecurity Toolset for Kali Linux</b><br>
+  <i>الأداة المتكاملة لاختبار الاختراق والحفاظ على الخصوصية الرقمية</i>
+</p>
 
 ---
 
-## 📸 ScreenShot
-![Main Menu](preview.png)
+## ⚠️ إخلاء مسؤولية (Disclaimer)
+
+**العربية:**
+هذه الأداة تم تطويرها لأغراض **تعليمية واختبار اختراق أخلاقي فقط**. المطور غير مسؤول عن أي استخدام سيئ أو غير قانوني لهذه الأداة. استخدام "Cphisher" ضد أهداف بدون إذن مسبق وصريح يعتبر جريمة يعاقب عليها القانون. تذكر دائماً: "القوة الكبيرة تأتي معها مسؤولية كبيرة".
+
+**English:**
+This tool is developed for **educational purposes and ethical hacking only**. The developer is not responsible for any misuse or illegal use of this tool. Using "Cphisher" against targets without prior and explicit permission is illegal. Always remember: "With great power comes great responsibility".
 
 ---
 
-## 🛠️ الأدوات المتوفرة (Features)
-* **🔍 C-Seeker**: فحص المسارات المخفية والـ Subdomains.
-* **🔌 Mac-Changer**: تغيير عنوان الماك للحفاظ على الخصوصية.
-* **🖼️ Img-Logger**: تتبع الـ IP عبر روابط الصور.
-* **🔑 Pass-Grabber**: أدوات فحص كلمات المرور.
+## 💎 المميزات الاحترافية (Premium Features)
+
+* **🔍 C-Seeker (Deep Scanning)**: تقنيات متطورة لفحص المسارات المخفية والـ Subdomains.
+* **🔌 Mac-Changer (Stealth Mode)**: تغيير عنوان الماك بضغطة زر لضمان الخصوصية.
+* **🖼 Img-Logger (Advanced Tracking)**: تتبع الـ IP وتحليل بيانات الأجهزة المستهدفة.
+* **🔑 Pass-Grabber (Audit Tools)**: أدوات متخصصة لفحص قوة وأمن كلمات المرور.
 
 ---
 
-## 🚀 طريقة التثبيت (Installation)
+## 🚀 بدء الاستخدام (Installation)
+
 ```bash
-git clone https://github.com/nymws750-star/Cphisher.git
+# استنساخ المستودع
+git clone [https://github.com/nymws750-star/Cphisher.git](https://github.com/nymws750-star/Cphisher.git)
+
+# الدخول للمجلد
 cd Cphisher
-chmod +x Cphisher.py
+
+# تثبيت المتطلبات
+pip3 install -r requirements.txt
+
+# تشغيل الأداة
 python3 Cphisher.py
-```
