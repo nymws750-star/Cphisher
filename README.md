@@ -2,10 +2,8 @@
 **Advanced All-in-One Cybersecurity Toolset for Kali Linux**
 
 ---
-
 ## 📸 ScreenShot
-![Main Menu](./preview.png)
-*(قم برفع صورة واسمها preview.png ليظهر مكان هذا النص)*
+![Main Menu](preview.png)
 
 ---
 
