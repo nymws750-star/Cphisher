@@ -1,10 +1,13 @@
 # <p align="center">🛡️ Cphisher v2.3.5</p>
-<img src="preview.png" width="700">
+
+<p align="center">
+  <img src="Cphisher.png" width="850">
+</p>
+
 <p align="center">
   <b>Advanced All-in-One Cybersecurity Toolset for Kali Linux</b><br>
   <i>الأداة المتكاملة لاختبار الاختراق والحفاظ على الخصوصية الرقمية</i>
 </p>
-
 ---
 
 ## ⚠️ إخلاء مسؤولية (Disclaimer)
