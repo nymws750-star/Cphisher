@@ -1,14 +1,6 @@
 # <p align="center">🛡️ Cphisher v2.3.5</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nymws750-star/Cphisher/main/preview.png" alt="Cphisher Preview" width="700">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nymws750-star&label=Project%20Views&color=red&style=flat-square" alt="Views">
-</p>
-
-<p align="center">
   <b>Advanced All-in-One Cybersecurity Toolset for Kali Linux</b><br>
   <i>الأداة المتكاملة لاختبار الاختراق والحفاظ على الخصوصية الرقمية</i>
 </p>
