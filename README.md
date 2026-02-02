@@ -1,7 +1,7 @@
 # <p align="center">🛡️ Cphisher v2.3.5</p>
 
 <p align="center">
-  <img src="Cphisher.png" width="850">
+  <img src="https://lh3.googleusercontent.com/u/0/d/1nlRW3xq0Qu53O6rvZq3AKSzIYMMOoGQ-=w1000-h1000?authuser=0" width="850">
 </p>
 
 <p align="center">
